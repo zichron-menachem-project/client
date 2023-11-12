@@ -1,0 +1,75 @@
+{
+  "name": "waze-project-client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@googlemaps/react-wrapper": "^1.1.35",
+    "@mui/icons-material": "^5.10.3",
+    "@mui/material": "^5.10.0",
+    "@reach/combobox": "^0.17.0",
+    "@react-google-maps/api": "^2.12.2",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/react-router-dom": "^5.3.3",
+    "axios": "^0.27.2",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.0.2",
+    "firebase": "^9.9.3",
+    "firebase-admin": "^11.0.1",
+    "google": "^2.1.0",
+    "google-map-react": "^2.2.0",
+    "googlemaps": "^1.12.0",
+    "lodash": "^4.17.21",
+    "mobx": "^6.6.1",
+    "mobx-react": "^7.5.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-firebase-hooks": "^5.0.3",
+    "react-google-places-autocomplete": "^3.4.0",
+    "react-history-router": "^1.4.1",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "react-widgets": "^5.8.4",
+    "sweetalert": "^2.1.2",
+    "use-places-autocomplete": "^4.0.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/google-map-react": "^2.1.7",
+    "@types/google.maps": "^3.49.2",
+    "@types/googlemaps": "^3.43.3",
+    "@types/jest": "^28.1.7",
+    "@types/lodash": "^4.14.184",
+    "@types/node": "^18.7.8",
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "typescript": "^4.7.4"
+  }
+}

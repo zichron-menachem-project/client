@@ -1,0 +1,14 @@
+.login {
+    margin-left: calc(50vw - 200px);
+    margin-top: calc(50vh - 300px);
+}
+
+a {
+    color: black;
+}
+
+.textBox {
+    padding: 10px;
+    font-size: 18px;
+    margin-bottom: 10px;
+}

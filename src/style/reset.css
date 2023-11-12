@@ -1,0 +1,24 @@
+.reset {
+    margin-left: calc(50vw - 200px);
+    margin-top: calc(50vh - 300px);
+}
+
+.loginIcon {
+    color: rgb(70, 70, 185);
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.icon {
+    margin: 1.5px;
+}
+
+a {
+    color: black;
+}
+
+.textBox {
+    padding: 10px;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
